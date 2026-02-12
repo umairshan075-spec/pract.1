@@ -76,7 +76,7 @@ def delete_student():
 
 # Main Menu
 while True:
-    print("===== Student Management System =====")
+    print("===== Umair's Student Management System =====")
     print("1. Add Student")
     print("2. Display Students")
     print("3. Search Student")
